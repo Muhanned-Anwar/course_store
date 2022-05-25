@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582355926002",
+    "project_id": "coursestore-db249",
+    "storage_bucket": "coursestore-db249.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582355926002:android:b90c019f769d4adbe6896b",
+        "android_client_info": {
+          "package_name": "com.example.course_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582355926002-j6dv4tugen62gfmsfhjg5dvfa5a7pinu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfDQxR4ZUpxIwTCUixTqVKpG0hsXSc7S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582355926002-j6dv4tugen62gfmsfhjg5dvfa5a7pinu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
